@@ -8,7 +8,7 @@ The dashboard provides HR teams and decision-makers with a centralized view of w
 
 ## 📊 Dashboard Preview
 
-![HR Analytics Dashboard](./HR analytics group.jpg)
+![HR Analytics Dashboard](./HR%20analytics%20group.jpg)
 
 ---
 
